@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit2316
+- 👋 Hi, I’m @Sumit
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on SOC Analyst
